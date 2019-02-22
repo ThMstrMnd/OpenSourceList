@@ -4,3 +4,4 @@
 3. Embedded AI Library: https://www.linux.com/blog/open-source-artificial-intelligence-projects-gnulinux
 4. ROS Robotics: https://github.com/ros-infrastructure
 5. Libre Router | https://librerouter.org/
+6. DeepMind | https://deepmind.com/research/open-source/
