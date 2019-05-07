@@ -5,3 +5,4 @@
 4. ROS Robotics: https://github.com/ros-infrastructure
 5. Libre Router | https://librerouter.org/
 6. DeepMind | https://deepmind.com/research/open-source/
+7. Mycroft | https://github.com/MycroftAI/mycroft-core
